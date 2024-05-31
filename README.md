@@ -46,7 +46,7 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 ### Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/senadin-puce-12b9ab248"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="50" height="50"/></a>
+  <a href="https://www.linkedin.com/in/senadin-puce"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="50" height="50"/></a>
 </p>
 
 Thanks for visiting my profile! 😊
